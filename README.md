@@ -1,2 +1,2 @@
 # AIWEB
-AI Web
+AI Web, external resources
